@@ -9,15 +9,16 @@ Statistics, Data Science, and Machine Learning Projects
 
 <h3> 🧔 &nbsp; About Me 👇 </h3>
 
-<p><em>I am a Master of Science graduate with a focus on exploring the <strong>"Limitations of Conversational Agents for Statistical Analysis"</strong> during my studies at <a href="https://www.aims.ac.za/">AIMS South Africa</a>, affiliated with the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> 📚
+<p><em>I am a Master of Science graduate with a focus on exploring the <strong>"Limitations of Conversational Agents for Statistical Analysis"</strong>  <a href="https://www.aims.ac.za/">AIMS South Africa</a>, affiliated with the <a href="https://www.uct.ac.za/">University of Cape Town</a></em> 📚
 
-My passion for statistics is matched with a deep knowledge in data science and machine learning, encompassing expertise in areas such as probability theory, time series analysis, generalized linear models, and multivariate analyses. I have completed projects like "Variable Selection in Multiple Linear Regression: An application to the determinants of life expectancy," which showcased my advanced data analytical abilities.
+My passion for statistics is matched with a deep knowledge in data science and machine learning, encompassing expertise in areas such as probability theory, time series analysis, generalized linear models,statistics for data science, reinforecement learning and multivariate analyses. I have completed projects like "Variable Selection in Multiple Linear Regression: An application to the determinants of life expectancy," which showcased my advanced data analytical abilities.
 
 <h3> 👨‍💻 &nbsp; Learning ... </h3>
 
 - 🤔 &nbsp; <em>Continuously expanding my expertise in Data Science and Machine Learning.</em>
 - ⏳ &nbsp; <em>Recently certified in Microsoft Power BI, Data Engineering on Azure, and Data Science on Azure.</em>
-- 🔍 &nbsp; <em>Aiming to deepen my understanding of advanced machine learning techniques and cloud-based data solutions.</em>
+ 🔍 &nbsp; <em>Aiming to deepen my understanding of AI and how it could impact the world.</em>
+
 
 <h3> ⚙️ &nbsp; Programming Languages & Tools </h3>
 
