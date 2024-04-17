@@ -17,13 +17,16 @@ My passion for statistics is matched with a deep knowledge in data science and m
 
 - 🤔 &nbsp; <em>Continuously expanding my expertise in Data Science and Machine Learning.</em>
 - ⏳ &nbsp; <em>Recently certified in Microsoft Power BI, Data Engineering on Azure, and Data Science on Azure.</em>
- -🔍 &nbsp; <em>Aiming to deepen my understanding of AI and how it could impact the world.</em>
+- &nbsp; <em>Aiming to deepen my understanding of AI and how it could impact the world.</em>
+
+
 
 
 <h3> ⚙️ &nbsp; Programming Languages & Tools </h3>
 
-- 💻 &nbsp; <em>R</em> | <em>Python</em> | <em>SQL</em> | <em>Power BI</em>
+- 💻 &nbsp; <em>R</em> | <em>Python</em> | <em>SQL</em> | <em>Power BI</em> | <em>Visual Studio Code</em>
 - 🌐 &nbsp; <em>Experience with Microsoft Azure services.</em>
+
 
 <h3> 📫 &nbsp; How to reach me: </h3>
 
